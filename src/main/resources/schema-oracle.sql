@@ -1,0 +1,6 @@
+
+CREATE TABLE Formatted (
+  hrefId VARCHAR(10) NOT NULL,
+  hrefText VARCHAR(100) NOT NULL,
+  href VARCHAR(100) NOT NULL
+);
